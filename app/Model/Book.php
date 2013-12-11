@@ -1,2 +1,6 @@
-class Book extends AppModel { 
+<?php
+class Book extends AppModel {
+
+
 }
+?>

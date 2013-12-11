@@ -1,0 +1,30 @@
+2013-12-11 15:27:36 Error: [MissingHelperException] Helper class HTMLHelper could not be found.
+Exception Attributes: array (
+  'class' => 'HTMLHelper',
+  'plugin' => false,
+)
+Request URL: /books/index
+Stack Trace:
+#0 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/View/View.php(867): HelperCollection->load('HTML', Array)
+#1 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/View/View.php(341): View->loadHelpers()
+#2 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Controller/Controller.php(1240): View->__construct(Object(BooksController))
+#3 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Controller/Controller.php(938): Controller->_getViewObject()
+#4 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#5 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/webonise/projects/php/apps2013/CakePhpDemo/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2013-12-11 15:45:47 Error: [MissingHelperException] Helper class HTMLHelper could not be found.
+Exception Attributes: array (
+  'class' => 'HTMLHelper',
+  'plugin' => false,
+)
+Request URL: /books/index
+Stack Trace:
+#0 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/View/View.php(867): HelperCollection->load('HTML', Array)
+#1 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/View/View.php(341): View->loadHelpers()
+#2 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Controller/Controller.php(1240): View->__construct(Object(BooksController))
+#3 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Controller/Controller.php(938): Controller->_getViewObject()
+#4 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#5 /home/webonise/projects/php/apps2013/CakePhpDemo/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/webonise/projects/php/apps2013/CakePhpDemo/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
