@@ -3,16 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bb2a4675-2d2d-4905-8b96-581b4462a73f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Config/core.php" afterPath="$PROJECT_DIR$/app/Config/core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controller/BooksController.php" afterPath="$PROJECT_DIR$/app/Controller/BooksController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Model/Book.php" afterPath="$PROJECT_DIR$/app/Model/Book.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Books/index.ctp" afterPath="$PROJECT_DIR$/app/View/Books/index.ctp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_books" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_books" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_demodb_list" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_demodb_list" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/logs/error.log" afterPath="$PROJECT_DIR$/app/tmp/logs/error.log" />
     </list>
     <ignored path="CakePhpDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +39,7 @@
       <file leaf-file-name="BooksController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Controller/BooksController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="9" selection-start="2301" selection-end="2301" vertical-scroll-proportion="-30.541666">
+            <state line="79" column="9" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +48,7 @@
       <file leaf-file-name="edit.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Books/edit.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="52" selection-start="165" selection-end="165" vertical-scroll-proportion="-2.5">
+            <state line="4" column="52" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,7 +93,7 @@
       <file leaf-file-name="index.ctp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/View/Books/index.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="53" selection-start="719" selection-end="719" vertical-scroll-proportion="0.64635956">
+            <state line="21" column="31" selection-start="493" selection-end="493" vertical-scroll-proportion="0.4680535">
               <folding>
                 <marker date="1386837449874" expanded="true" signature="309:345" placeholder="..." />
                 <marker date="1386837449874" expanded="true" signature="807:812" placeholder="..." />
@@ -183,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,13 +253,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebCrawler" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -312,7 +308,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26060605" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15824915" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -461,21 +457,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Controller/BooksController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="9" selection-start="2301" selection-end="2301" vertical-scroll-proportion="-30.541666">
+        <state line="79" column="9" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Books/edit.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="165" selection-end="165" vertical-scroll-proportion="-2.5">
+        <state line="4" column="52" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Books/index.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="53" selection-start="719" selection-end="719" vertical-scroll-proportion="0.64635956">
+        <state line="21" column="31" selection-start="493" selection-end="493" vertical-scroll-proportion="0.4680535">
           <folding>
             <marker date="1386837449874" expanded="true" signature="309:345" placeholder="..." />
             <marker date="1386837449874" expanded="true" signature="807:812" placeholder="..." />
